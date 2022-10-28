@@ -32,7 +32,7 @@ text-align: center;
     }
     table{
         border-collapse:collapse ;
-        margin-left:500px;
+        margin-left:300px;
         margin-top:200px;
     }
     div {
@@ -47,4 +47,12 @@ text-align: center;
     caption {
         font-size: 30px;
         background-color: burlywood;  
+    }
+    th{
+        font-size: 20px;
+    }
+    button{
+        background-color: turquoise;
+        color:brown;
+        font-size: 10px;
     }
