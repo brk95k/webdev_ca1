@@ -28,7 +28,7 @@ text-align: center;
         text-decoration: underline;
     }
     body{
-        background-color: aqua;
+        background-color: silver;
     }
     table{
         border-collapse:collapse ;
@@ -42,7 +42,7 @@ text-align: center;
         text-align: center;
     }
     tbody tr:nth-child(odd){
-        background-color: gainsboro;
+        background-color:bisque;
     }
     caption {
         font-size: 30px;
